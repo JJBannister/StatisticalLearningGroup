@@ -61,4 +61,7 @@ VGG, ResNet, DenseNet, Batch normalization, Skip connections, Vanishing/Explodin
 #### 9 Generative Models (image data)
 VAE, GAN, deep belief network, style transfer.
 
+#### 10 Geometric Deep Learning
+Graph neural networks, convolution on graphs and manifolds
+
 
