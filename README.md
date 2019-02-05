@@ -42,23 +42,23 @@ Bayesian networks, markov networks, conditional independence, joint probability 
 Fixed vs random effects, heirarchical regression
 
 
-#### 4 Stochastic Processes (sequential)
+#### 4 Stochastic Processes (sequential data)
 Random walk (levy process), brownian motion, gaussian Process, markov process, martingale
 
-#### 5 Recurrent Neural Networks (sequential)
+#### 5 Recurrent Neural Networks (sequential data)
 Fully recurrent network, LSTM, training (supervised, reinforcement)
 
-#### 6 Reinforcement Learning (sequential)
+#### 6 Reinforcement Learning (sequential data)
 Markov decision process, policy learning (brute force, monte carlo, Q-learning), exploration vs exploitation (multi-armed bandit problem)
 
 
-#### 7 Computational Anatomy (images)
+#### 7 Computational Anatomy (image data)
 Landmarks, diffeomorphisms (morphisms, isomorphisms, homeomorphisms, manifolds), diffeomorphic registration
 
-#### 8 Modern Deep Convolutional Networks (images)
+#### 8 Modern Deep Convolutional Networks (image data)
 VGG, ResNet, DenseNet, Batch normalization, Skip connections, Vanishing/Exploding gradients, Shattered gradients.
 
-#### 9 Generative Models (images)
+#### 9 Generative Models (image data)
 VAE, GAN, deep belief network, style transfer.
 
 
