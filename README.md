@@ -27,38 +27,38 @@ We are tentatively planning to meet ... in room ... at ...
 ### Curriculum
 The content was selected according to the interests and knowledge of the presenting members. The content was also structured such that foundational lectures are presented early in the summer, and advanced or application focussed lectures are presented later on.  
 
-#### 0 Information Theory
-Information, entropy (conditional, joint, relative), mutual information, coding theory.
 
-#### 1 Bayesian Inference
-Frequentist vs. Bayesian, bayes theorem, maximum likelihood estimates, maximum a posterori estimates, Markov Chain Monte Carlo (MCMC), Variational Inference (VI). 
+#### 0 Information Theory (foundational)
+Information, entropy (conditional, joint, relative, differential), mutual information, coding theory
 
-#### 2 Probabilistic Graphical Models 
-Bayesian networks, markov networks, conditional independence, joint probability factorization.
+#### 1 Bayesian Inference (foundational)
+Frequentist vs. Bayesian, bayes theorem, maximum likelihood estimates, maximum a posterori estimates, Markov Chain Monte Carlo (MCMC), Variational Inference (VI)
 
-#### 3 Decision Trees
-...
+#### 2 Probabilistic Graphical Models (foundational)
+Bayesian networks, markov networks, conditional independence, joint probability factorization, hidden markov models
 
-#### 4 Stochastic Processes
-Gaussian Process, markov process, brownian motion, time series analysis.
 
-#### 5 Computational Anatomy 
-Landmarks, diffeomorphisms (morphisms, isomorphisms, homeomorphisms, manifolds), diffeomorphic registration.
+#### 3 Multi-level and Mixed Effects Models (ANOVA)
+Fixed vs random effects, heirarchical regression
 
-#### 6 Modern Deep Convolutional Networks
-VGG, ResNet, DenseNet, Batch normalization, Skip connections, Vanishing/Exploding gradients, Shattered gradients, best practices. 
 
-#### 7 Generative Models
+#### 4 Stochastic Processes (sequential)
+Random walk (levy process), brownian motion, gaussian Process, markov process, martingale
+
+#### 5 Recurrent Neural Networks (sequential)
+Fully recurrent network, LSTM, training (supervised, reinforcement)
+
+#### 6 Reinforcement Learning (sequential)
+Markov decision process, policy learning (brute force, monte carlo, Q-learning), exploration vs exploitation (multi-armed bandit problem)
+
+
+#### 7 Computational Anatomy (images)
+Landmarks, diffeomorphisms (morphisms, isomorphisms, homeomorphisms, manifolds), diffeomorphic registration
+
+#### 8 Modern Deep Convolutional Networks (images)
+VGG, ResNet, DenseNet, Batch normalization, Skip connections, Vanishing/Exploding gradients, Shattered gradients.
+
+#### 9 Generative Models (images)
 VAE, GAN, deep belief network, style transfer.
-
-#### 8 Reinforcement Learning
-...
-
-#### 9
-...
-
-#### 10
-...
-
 
 
