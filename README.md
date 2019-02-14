@@ -43,7 +43,7 @@ The content was selected according to the interests and knowledge of the present
 Information, entropy (conditional, joint, relative, differential), mutual information, coding theory
 
 #### 1 Stochastic Processes
-Random walk (levy process), brownian motion, gaussian Process, markov process, martingale
+Random walk (levy process), brownian motion, gaussian process, markov process, martingale
 
 #### 2 Decision Trees/Forests 
 Decsion trees, bagging (bootstrap aggregation), feature bagging, random forests, information gain
