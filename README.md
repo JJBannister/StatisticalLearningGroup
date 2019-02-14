@@ -10,6 +10,7 @@ Public repository for the UofC Statistical Learning study group. The group will 
 - Lucas Lo Vercio
 - Nagesh Subbanna
 - Matthias Wilms
+- Bryce Besler
 - ...
 
 ### Meetings
@@ -22,7 +23,7 @@ We are tentatively planning to meet wednesday at noon beginning April 3. Lunch w
 | Apr. 3<sup>nd</sup>      | Information Theory                             | Jordan      |
 | Apr. 0<sup>th</sup>      | Bayesian Inference                             | David ???       |
 | Apr. 0<sup>th</sup>      | Probabilistic Graphical Models                 | Nagesh       |
-| Apr. 0<sup>th</sup>      | Multi-level and Mixed Effects Models           | Bryce ???       |
+| Apr. 0<sup>th</sup>      | Multi-level and Mixed Effects Models           | Bryce  |
 | Apr. 0<sup>nd</sup>      | Stochastic Processes                           | Deepthi |
 | May. 0<sup>nd</sup>      | Recurrent Neural Networks                      | ??? |
 | May. 0<sup>nd</sup>      | Reinforcement Learning                         | Anthony |
