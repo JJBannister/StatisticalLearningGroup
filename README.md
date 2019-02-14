@@ -15,7 +15,7 @@ Public repository for the UofC Statistical Learning study group. The group will 
 
 
 ### Meetings
-We are planning to meet wednesday at noon beginning April 3. Lunch will be provided (hopefully). 
+We are planning to meet every second wednesday at noon beginning April 3. Lunch will be provided (hopefully). 
 
 ### Course Outline
 
