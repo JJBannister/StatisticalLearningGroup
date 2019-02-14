@@ -4,15 +4,15 @@ Public repository for the UofC Statistical Learning study group. The group will 
 #### Presenting Members:
 - Jordan Bannister
 - Deepthi Rajashekar
-- Anup Tuladhar
-- Pauline Mouches
-- Anthony Winder
 - Lucas Lo Vercio
-- Nagesh Subbanna
 - Matthias Wilms
+- Anthony Winder
+- Anup Tuladhar
+- David Katz
+- Nagesh Subbanna
 - Bryce Besler
 - Danielle Whittier
-- David Katz
+
 
 ### Meetings
 We are planning to meet wednesday at noon beginning April 3. Lunch will be provided (hopefully). 
