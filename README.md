@@ -1,5 +1,5 @@
 # UofC Statistical Learning Study Group
-Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 12 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
+Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 11 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
 
 #### Presenting Members:
 - Jordan Bannister
