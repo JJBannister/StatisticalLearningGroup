@@ -37,8 +37,7 @@ We are planning to meet wednesday at noon beginning April 3. Lunch will be provi
 
 
 ### Curriculum
-The content was selected according to the interests and knowledge of the presenting members. The content was also structured such that foundational lectures are presented early in the summer, and advanced or application focussed lectures are presented later on.  
-
+The content was selected according to the interests and knowledge of the presenting members. Related topics are (roughly) grouped together.
 
 #### 0 Information Theory 
 Information, entropy (conditional, joint, relative, differential), mutual information, coding theory
