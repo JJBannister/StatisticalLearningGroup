@@ -27,14 +27,11 @@ We are planning to meet every second wednesday at noon beginning April 3. Lunch 
 | May. 15<sup>th</sup>     | Computational Anatomy                          | Matthias     |
 | May. 29<sup>th</sup>     | Reinforcement Learning                         | Anthony      |
 | Jun. 12<sup>th</sup>     | Recurrent Neural Networks                      | Anup/Ahn?    |
-| Jun. 26<sup>th</sup>     | Geometric Deep Learning                        | Jordan       |
-| Jul. 10<sup>th</sup>     | Generative Models                              | Anup         |
-| Jul. 24<sup>th</sup>     | Bayesian Inference                             | David        |
-| Aug. 7<sup>th</sup>      | Probabilistic Graphical Models                 | Nagesh       |
-| Aug. 21<sup>st</sup>     | Causal Inference                               | Bryce        |
-| Sep. 4<sup>th</sup>      | Multi-level and Mixed Effects Models           | Danielle     |
-
-
+| Jun. 26<sup>th</sup>     | Generative Models                              | Anup         |
+| Jul. 10<sup>th</sup>     | Bayesian Inference                             | David        |
+| Jul. 24<sup>th</sup>     | Probabilistic Graphical Models                 | Nagesh       |
+| Aug. 7<sup>th</sup>      | Causal Inference                               | Bryce        |
+| Aug. 21<sup>st</sup>     | Multi-level and Mixed Effects Models           | Danielle     |
 
 ### Curriculum
 The content was selected according to the interests and knowledge of the presenting members. Related topics are (roughly) grouped together.
@@ -57,20 +54,17 @@ Markov decision process, policy learning (brute force, monte carlo, Q-learning),
 #### 5 Recurrent Neural Networks 
 Fully recurrent network, LSTM, training (supervised, reinforcement)
 
-#### 6 Geometric Deep Learning
-Non-Euclidean data structures, graph neural networks, convolution on graphs and manifolds
-
-#### 7 Generative Models 
+#### 6 Generative Models 
 VAE, GAN, deep belief network, style transfer.
 
-#### 8 Bayesian Inference 
+#### 7 Bayesian Inference 
 Frequentist vs. Bayesian, bayes theorem, maximum likelihood estimates, maximum a posterori estimates, Markov Chain Monte Carlo (MCMC), Variational Inference (VI)
 
-#### 9 Probabilistic Graphical Models
+#### 8 Probabilistic Graphical Models
 Bayesian networks, markov networks, conditional independence, joint probability factorization, hidden markov models
 
-#### 10 Causal Inference
+#### 9 Causal Inference
 Association, causation, intervention, counterfactuals, instrumentals, Structural Causal Models (SCM)
 
-#### 11 Multi-level and Mixed Effects Models 
+#### 10 Multi-level and Mixed Effects Models 
 Fixed vs random effects, heirarchical regression
