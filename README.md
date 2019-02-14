@@ -1,5 +1,5 @@
 # UofC Statistical Learning Study Group
-Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for approximately 10 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
+Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 12 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
 
 #### Presenting Members:
 - Jordan Bannister
@@ -11,26 +11,30 @@ Public repository for the UofC Statistical Learning study group. The group will 
 - Nagesh Subbanna
 - Matthias Wilms
 - Bryce Besler
-- ...
+- Danielle Whittier
+- David Katz
 
 ### Meetings
-We are tentatively planning to meet wednesday at noon beginning April 3. Lunch will be provided (hopefully). 
+We are planning to meet wednesday at noon beginning April 3. Lunch will be provided (hopefully). 
 
 ### Course Outline
 
-| Date                     | Topic                                          | Presenter |
-|:------------------------ |:---------------------------------------------- |:--------- |
-| Apr. 3<sup>nd</sup>      | Information Theory                             | Jordan      |
-| Apr. 0<sup>th</sup>      | Bayesian Inference                             | David ???       |
-| Apr. 0<sup>th</sup>      | Probabilistic Graphical Models                 | Nagesh       |
-| Apr. 0<sup>th</sup>      | Multi-level and Mixed Effects Models           | Bryce  |
-| Apr. 0<sup>nd</sup>      | Stochastic Processes                           | Deepthi |
-| May. 0<sup>nd</sup>      | Recurrent Neural Networks                      | ??? |
-| May. 0<sup>nd</sup>      | Reinforcement Learning                         | Anthony |
-| May. 0<sup>nd</sup>      | Computational Anatomy                          | Matthias |
-| Jun. 0<sup>nd</sup>      | Modern Deep Convolutional Networks             | Pauline |
-| Jun. 0<sup>nd</sup>      | Generative Models                              | Anup |
-| Jun. 0<sup>nd</sup>      | Geometric Deep Learning                        | ??? |
+| Date                     | Topic                                          | Presenter    |
+|:------------------------ |:---------------------------------------------- |:---------    |
+| Apr. 3<sup>rd</sup>      | Information Theory                             | Jordan       |
+| Apr. 17<sup>th</sup>     | Stochastic Processes                           | Deepthi      |
+| May. 1<sup>st</sup>      | Decision Trees/Forests                         | Lucas        |
+| May. 15<sup>th</sup>     | Computational Anatomy                          | Matthias     |
+| May. 29<sup>th</sup>     | Reinforcement Learning                         | Anthony      |
+| Jun. 12<sup>th</sup>     | Recurrent Neural Networks                      | Anup/Ahn?    |
+| Jun. 26<sup>th</sup>     | Geometric Deep Learning                        | Jordan       |
+| Jul. 10<sup>th</sup>     | Generative Models                              | Anup         |
+| Jul. 24<sup>th</sup>     | Bayesian Inference                             | David Katz   |
+| Aug. 7<sup>th</sup>      | Probabilistic Graphical Models                 | Nagesh       |
+| Aug. 21<sup>st</sup>     | Causal Inference                               | Bryce        |
+| Sep. 4<sup>th</sup>      | Multi-level and Mixed Effects Models           | Danielle     |
+
+
 
 ### Curriculum
 The content was selected according to the interests and knowledge of the presenting members. The content was also structured such that foundational lectures are presented early in the summer, and advanced or application focussed lectures are presented later on.  
@@ -39,34 +43,35 @@ The content was selected according to the interests and knowledge of the present
 #### 0 Information Theory 
 Information, entropy (conditional, joint, relative, differential), mutual information, coding theory
 
-#### 1 Bayesian Inference 
-Frequentist vs. Bayesian, bayes theorem, maximum likelihood estimates, maximum a posterori estimates, Markov Chain Monte Carlo (MCMC), Variational Inference (VI)
-
-#### 2 Probabilistic Graphical Models
-Bayesian networks, markov networks, conditional independence, joint probability factorization, hidden markov models
-
-#### 3 Multi-level and Mixed Effects Models 
-Fixed vs random effects, heirarchical regression
-
-#### 4 Stochastic Processes
+#### 1 Stochastic Processes
 Random walk (levy process), brownian motion, gaussian Process, markov process, martingale
+
+#### 2 Decision Trees/Forests 
+Decsion trees, bagging (bootstrap aggregation), feature bagging, random forests, information gain
+
+#### 3 Computational Anatomy 
+Diffeomorphisms (morphisms, isomorphisms, homeomorphisms, manifolds), diffeomorphism groups, matching/registration (LDMM)
+
+#### 4 Reinforcement Learning 
+Markov decision process, policy learning (brute force, monte carlo, Q-learning), exploration vs exploitation (multi-armed bandit problem)
 
 #### 5 Recurrent Neural Networks 
 Fully recurrent network, LSTM, training (supervised, reinforcement)
 
-#### 6 Reinforcement Learning 
-Markov decision process, policy learning (brute force, monte carlo, Q-learning), exploration vs exploitation (multi-armed bandit problem)
+#### 6 Geometric Deep Learning
+Non-Euclidean data structures, graph neural networks, convolution on graphs and manifolds
 
-#### 7 Computational Anatomy 
-Landmarks, diffeomorphisms (morphisms, isomorphisms, homeomorphisms, manifolds), diffeomorphic registration
-
-#### 8 Modern Deep Convolutional Networks 
-VGG, ResNet, DenseNet, Batch normalization, Skip connections, Vanishing/Exploding gradients, Shattered gradients.
-
-#### 9 Generative Models 
+#### 7 Generative Models 
 VAE, GAN, deep belief network, style transfer.
 
-#### 10 Geometric Deep Learning
-Graph neural networks, convolution on graphs and manifolds
+#### 8 Bayesian Inference 
+Frequentist vs. Bayesian, bayes theorem, maximum likelihood estimates, maximum a posterori estimates, Markov Chain Monte Carlo (MCMC), Variational Inference (VI)
 
+#### 9 Probabilistic Graphical Models
+Bayesian networks, markov networks, conditional independence, joint probability factorization, hidden markov models
 
+#### 10 Causal Inference
+Association, causation, intervention, counterfactuals, instrumentals, Structural Causal Models (SCM)
+
+#### 11 Multi-level and Mixed Effects Models 
+Fixed vs random effects, heirarchical regression
