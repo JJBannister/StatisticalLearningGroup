@@ -29,7 +29,7 @@ We are planning to meet every second wednesday at noon beginning April 3. Lunch 
 | Jun. 12<sup>th</sup>     | Recurrent Neural Networks                      | Anup/Ahn?    |
 | Jun. 26<sup>th</sup>     | Geometric Deep Learning                        | Jordan       |
 | Jul. 10<sup>th</sup>     | Generative Models                              | Anup         |
-| Jul. 24<sup>th</sup>     | Bayesian Inference                             | David Katz   |
+| Jul. 24<sup>th</sup>     | Bayesian Inference                             | David        |
 | Aug. 7<sup>th</sup>      | Probabilistic Graphical Models                 | Nagesh       |
 | Aug. 21<sup>st</sup>     | Causal Inference                               | Bryce        |
 | Sep. 4<sup>th</sup>      | Multi-level and Mixed Effects Models           | Danielle     |
