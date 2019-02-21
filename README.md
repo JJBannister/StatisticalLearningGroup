@@ -1,5 +1,5 @@
 # UofC Statistical Learning Study Group
-Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 11 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
+Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 12 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
 
 #### Presenting Members:
 - Jordan Bannister
@@ -49,7 +49,7 @@ Random walk (levy process), brownian motion, gaussian process, markov process, m
 Decsion trees, bagging (bootstrap aggregation), feature bagging, random forests, information gain
 
 #### 4 Ensemble Methods
-Ensemble methods such as Blending, bagging, boosting, stacking which will be illustrated throughout a ML problem
+Blending, bagging, boosting, stacking.
 
 #### 5 Computational Anatomy 
 Diffeomorphisms (morphisms, isomorphisms, homeomorphisms, manifolds), diffeomorphism groups, matching/registration (LDMM)
