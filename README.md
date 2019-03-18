@@ -21,20 +21,20 @@ We are planning to meet every second wednesday at noon beginning April 3. Lunch 
 
 ### Course Outline
 
-| Date                     | Topic                                          | Presenter    |
-|:------------------------ |:---------------------------------------------- |:---------    |
-| Apr. 3<sup>rd</sup>      | Information Theory                             | Jordan       |
-| Apr. 17<sup>th</sup>     | Stochastic Processes                           | Deepthi      |
-| May. 1<sup>st</sup>      | Decision Trees/Forests                         | Lucas        |
-| May. 15<sup>th</sup>     | Ensemble Methods                               | Ahn          |
-| May. 29<sup>th</sup>     | Computational Anatomy                          | Matthias     |
-| Jun. 12<sup>th</sup>     | Reinforcement Learning                         | Anthony      |
-| Jun. 26<sup>th</sup>     | Recurrent Neural Networks                      | Banafshe     |
-| Jul. 10<sup>th</sup>     | Generative Models                              | Anup         |
-| Jul. 24<sup>th</sup>     | Bayesian Inference                             | David        |
-| Aug. 7<sup>th</sup>      | Probabilistic Graphical Models                 | Nagesh       |
-| Aug. 21<sup>st</sup>     | Causal Inference                               | Bryce        |
-| Sep. 4<sup>th</sup>      | Multi-level and Mixed Effects Models           | Danielle     |
+| Date                     | Topic                                          | Presenter    |Room  |
+|:------------------------ |:---------------------------------------------- |:---------    |:-----|
+| Apr. 3<sup>rd</sup>      | Information Theory                             | Jordan       |1405A |
+| Apr. 17<sup>th</sup>     | Stochastic Processes                           | Deepthi      |G643  |
+| May. 1<sup>st</sup>      | Decision Trees/Forests                         | Lucas        |1405B |
+| May. 15<sup>th</sup>     | Ensemble Methods                               | Ahn          |1405B |
+| May. 29<sup>th</sup>     | Computational Anatomy                          | Matthias     |1405B |
+| Jun. 12<sup>th</sup>     | Reinforcement Learning                         | Anthony      |G382 VC |
+| Jun. 26<sup>th</sup>     | Recurrent Neural Networks                      | Banafshe     |1405B |
+| Jul. 10<sup>th</sup>     | Generative Models                              | Anup         | TBA |
+| Jul. 24<sup>th</sup>     | Bayesian Inference                             | David        | TBA |
+| Aug. 7<sup>th</sup>      | Probabilistic Graphical Models                 | Nagesh       | TBA |
+| Aug. 21<sup>st</sup>     | Causal Inference                               | Bryce        | TBA |
+| Sep. 4<sup>th</sup>      | Multi-level and Mixed Effects Models           | Danielle     | TBA |
 
 ### Curriculum
 The content was selected according to the interests and knowledge of the presenting members. Related topics are (roughly) grouped together.
