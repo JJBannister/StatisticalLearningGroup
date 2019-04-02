@@ -17,7 +17,7 @@ Public repository for the UofC Statistical Learning study group. The group will 
 
 
 ### Meetings
-We are planning to meet *every second week (roughly) from 12-1pm beginning April 5*. Food will be provided. 
+We are planning to meet **every second week (roughly) from 12-1pm beginning April 5**. Food will be provided. 
 
 ### Course Outline
 
