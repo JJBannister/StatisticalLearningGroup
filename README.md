@@ -23,8 +23,8 @@ We are planning to meet every second wednesday at noon beginning April 3. Lunch 
 
 | Date                     | Topic                                          | Presenter    |Room  |
 |:------------------------ |:---------------------------------------------- |:---------    |:-----|
-| Apr. 5<sup>rd</sup>      | Information Theory                             | Jordan       |1405A |
-| Apr. 26<sup>th</sup>     | Stochastic Processes                           | Deepthi      |G643  |
+| Friday Apr. 5<sup>rd</sup>      | Information Theory                             | Jordan       |1405A |
+| Friday Apr. 26<sup>th</sup>     | Stochastic Processes                           | Deepthi      |G643  |
 | May. 1<sup>st</sup>      | Decision Trees/Forests                         | Lucas        |1405B |
 | May. 15<sup>th</sup>     | Reinforcement Learning                         | Anthony      |1405B |
 | May. 29<sup>th</sup>     | Generative Models                              | Anup         |1405B |
