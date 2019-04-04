@@ -1,6 +1,8 @@
 # UofC Statistical Learning Study Group
 Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 12 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
 
+The group is sponsored by the GSA Quality Money Fund, The UofC Biomedical Engineering Graduate Student Commitee (BMEG), and the McCaig Trainee Council (MTC)
+
 #### Presenting Members:
 - Jordan Bannister
 - Deepthi Rajashekar
@@ -23,8 +25,8 @@ We are planning to meet **every second week (roughly) from 12-1pm beginning Apri
 
 | Date                     | Topic                                          | Presenter    |Room  |
 |:------------------------ |:---------------------------------------------- |:---------    |:-----|
-| Friday Apr. 5<sup>rd</sup>      | Information Theory                             | Jordan       |1405A |
-| Friday Apr. 26<sup>th</sup>     | Stochastic Processes                           | Deepthi      |G643  |
+| Friday Apr. 5<sup>rd</sup>      | Information Theory                      | Jordan       |1405A |
+| Friday Apr. 26<sup>th</sup>     | Stochastic Processes                    | Deepthi      |G643  |
 | May. 1<sup>st</sup>      | Decision Trees/Forests                         | Lucas        |1405B |
 | May. 15<sup>th</sup>     | Reinforcement Learning                         | Anthony      |1405B |
 | May. 29<sup>th</sup>     | Generative Models                              | Anup         |1405B |
@@ -40,7 +42,7 @@ We are planning to meet **every second week (roughly) from 12-1pm beginning Apri
 The content was selected according to the interests and knowledge of the presenting members. Related topics are (roughly) grouped together.
 
 #### 1 Information Theory 
-Information, entropy (conditional, joint, relative, differential), mutual information, coding theory
+Information, entropy (conditional, joint, relative, differential), mutual information
 
 #### 2 Stochastic Processes
 Random walk (levy process), brownian motion, gaussian process, markov process, martingale
