@@ -1,6 +1,5 @@
-*David Mumford: Pattern Theory Chapter 1
-*Daniel Commenges: Information Theory and Statistics
-
+David Mumford: Pattern Theory Chapter 1
+Daniel Commenges: Information Theory and Statistics
 Claude Shannon: Prediction and Entropy of Printed English
 Claude Shannon: A Mathematical Theory of Communication
 
