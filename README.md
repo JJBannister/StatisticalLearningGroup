@@ -7,19 +7,21 @@ The group is sponsored by the GSA Quality Money Fund, The UofC Biomedical Engine
 - Jordan Bannister
 - Deepthi Rajashekar
 - Lucas Lo Vercio
-- Van Anh Le
-- Matthias Wilms
 - Anthony Winder
-- Banafshe Felfeliyan
 - Anup Tuladhar
+- Luis Souto Maior
+- Matthias Wilms
+- Banafshe Felfeliyan
+- Van Anh Le
 - David Katz
 - Nagesh Subbanna
 - Bryce Besler
 - Danielle Whittier
 
 
+
 ### Meetings
-We are planning to meet **every second week (roughly) from 12-1pm beginning April 5**. Food will be provided. 
+We are planning to meet **every second week (roughly) on Friday's from 12-1pm beginning April 5**. Food will be provided. 
 
 ### Course Outline
 
@@ -27,16 +29,17 @@ We are planning to meet **every second week (roughly) from 12-1pm beginning Apri
 |:------------------------ |:---------------------------------------------- |:---------    |:-----|
 | Friday Apr. 5<sup>rd</sup>      | Information Theory                      | Jordan       |1405A |
 | Friday Apr. 26<sup>th</sup>     | Stochastic Processes                    | Deepthi      |G643  |
-| May. 1<sup>st</sup>      | Decision Trees/Forests                         | Lucas        |1405B |
-| May. 15<sup>th</sup>     | Reinforcement Learning                         | Anthony      |1405B |
-| May. 29<sup>th</sup>     | Generative Models                              | Anup         |1405B |
-| Jun. 12<sup>th</sup>     | Computational Anatomy                          | Matthias     |G382 VC |
-| Jun. 26<sup>th</sup>     | Recurrent Neural Networks                      | Banafshe     |1405B |
-| Jul. 10<sup>th</sup>     | Ensemble Methods                               | Ahn          | TBA |
-| Jul. 24<sup>th</sup>     | Bayesian Inference                             | David        | TBA |
-| Aug. 7<sup>th</sup>      | Probabilistic Graphical Models                 | Nagesh       | TBA |
-| Aug. 21<sup>st</sup>     | Causal Inference                               | Bryce        | TBA |
-| Sep. 4<sup>th</sup>      | Multi-level and Mixed Effects Models           | Danielle     | TBA |
+| Friday May. 3<sup>rd</sup>      | Decision Trees/Forests                  | Lucas        |1405B |
+| Friday May. 17<sup>th</sup>     | Reinforcement Learning                  | Anthony      |1405B |
+| Friday May. 31<sup>st</sup>     | Generative Models                       | Anup         |1405B |
+| Friday Jun. 7<sup>th</sup>      | Interpretable Models                    | Luis         |TBA |
+| Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G382 VC |
+| Friday Jun. 28<sup>th</sup>     | Recurrent Neural Networks               | Banafshe     |1405B |
+| Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | TBA |
+| Friday Jul. 26<sup>th</sup>     | Bayesian Inference                      | David        | TBA |
+| Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | TBA |
+| Friday Aug. 23<sup>rd</sup>     | Causal Inference                        | Bryce        | TBA |
+| Friday Sep. 6<sup>th</sup>      | Multi-level and Mixed Effects Models    | Danielle     | TBA |
 
 ### Curriculum
 The content was selected according to the interests and knowledge of the presenting members. Related topics are (roughly) grouped together.
@@ -56,23 +59,26 @@ Markov decision process, policy learning (brute force, monte carlo, Q-learning),
 #### 5 Generative Models 
 VAE, GAN, deep belief network, style transfer.
 
-#### 6 Computational Anatomy 
+#### 6 Interpretable Models
+Explainability vs interpretability; feature visualization; activation-based, gradient-based, and embedding-based methods. 
+
+#### 7 Computational Anatomy 
 Diffeomorphisms (morphisms, isomorphisms, homeomorphisms, manifolds), diffeomorphism groups, matching/registration (LDMM)
 
-#### 7 Recurrent Neural Networks 
+#### 8 Recurrent Neural Networks 
 Fully recurrent network, LSTM, training (supervised, reinforcement)
 
-#### 8 Ensemble Methods
+#### 9 Ensemble Methods
 Blending, bagging, boosting, stacking.
 
-#### 9 Bayesian Inference 
+#### 10 Bayesian Inference 
 Frequentist vs. Bayesian, bayes theorem, maximum likelihood estimates, maximum a posterori estimates, Markov Chain Monte Carlo (MCMC), Variational Inference (VI)
 
-#### 10 Probabilistic Graphical Models
+#### 11 Probabilistic Graphical Models
 Bayesian networks, markov networks, conditional independence, joint probability factorization, hidden markov models
 
-#### 11 Causal Inference
+#### 12 Causal Inference
 Association, causation, intervention, counterfactuals, instrumentals, Structural Causal Models (SCM)
 
-#### 12 Multi-level and Mixed Effects Models 
+#### 13 Multi-level and Mixed Effects Models 
 Fixed vs random effects, heirarchical regression
