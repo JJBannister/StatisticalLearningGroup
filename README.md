@@ -1,5 +1,5 @@
 # UofC Statistical Learning Study Group
-Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 12 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
+Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 13 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
 
 The group is sponsored by the GSA Quality Money Fund, The UofC Biomedical Engineering Graduate Student Commitee (BMEG), and the McCaig Trainee Council (MTC)
 
@@ -51,7 +51,7 @@ Information, entropy (conditional, joint, relative, differential), mutual inform
 Random walk (levy process), brownian motion, gaussian process, markov process, martingale
 
 #### 3 Decision Trees/Forests 
-Decsion trees, bagging (bootstrap aggregation), feature bagging, random forests, information gain
+Decsion trees, bagging (bootstrap aggregation), random forests, information gain
 
 #### 4 Reinforcement Learning 
 Markov decision process, policy learning (brute force, monte carlo, Q-learning), exploration vs exploitation (multi-armed bandit problem)
