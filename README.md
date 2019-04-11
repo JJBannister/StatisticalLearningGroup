@@ -21,7 +21,7 @@ The group is sponsored by the GSA Quality Money Fund, The UofC Biomedical Engine
 
 
 ### Meetings
-We are planning to meet **every second week (roughly) on Friday's from 12-1pm beginning April 5**. Food will be provided. 
+We are planning to meet **every second week (roughly) on Friday from 12-1pm beginning April 5**. Food will be provided. 
 
 ### Course Outline
 
