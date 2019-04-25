@@ -35,11 +35,11 @@ We are planning to meet **every second week (roughly) on Friday from 12-1pm begi
 | Friday Jun. 7<sup>th</sup>      | Interpretable Models                    | Luis         |TBA |
 | Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G382 VC |
 | Friday Jun. 28<sup>th</sup>     | Recurrent Neural Networks               | Banafshe     |1405B |
-| Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | TBA |
-| Friday Jul. 26<sup>th</sup>     | Bayesian Inference                      | David        | TBA |
-| Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | TBA |
-| Friday Aug. 23<sup>rd</sup>     | Causal Inference                        | Bryce        | TBA |
-| Friday Sep. 6<sup>th</sup>      | Multi-level and Mixed Effects Models    | Danielle     | TBA |
+| Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | G643 |
+| Friday Jul. 26<sup>th</sup>     | Bayesian Inference                      | David        | G643 |
+| Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | G643 |
+| Friday Aug. 23<sup>rd</sup>     | Causal Inference                        | Bryce        | G750 |
+| Friday Sep. 6<sup>th</sup>      | Multi-level and Mixed Effects Models    | Danielle     | G743 |
 
 ### Curriculum
 The content was selected according to the interests and knowledge of the presenting members. Related topics are (roughly) grouped together.
