@@ -28,13 +28,13 @@ We are planning to meet **every second week (roughly) on Friday from 12-1pm begi
 | Date                     | Topic                                          | Presenter    |Room  |
 |:------------------------ |:---------------------------------------------- |:---------    |:-----|
 | Friday Apr. 5<sup>rd</sup>      | Information Theory                      | Jordan       |1405A |
-| Friday Apr. 26<sup>th</sup>     | Stochastic Processes                    | Deepthi      |G643  |
-| Friday May. 3<sup>rd</sup>      | Decision Trees/Forests                  | Lucas        |1405B |
-| Friday May. 17<sup>th</sup>     | Reinforcement Learning                  | Anthony      |1405B |
-| Friday May. 31<sup>st</sup>     | Generative Models                       | Anup         |1405B |
-| Friday Jun. 7<sup>th</sup>      | Interpretable Models                    | Luis         |TBA |
-| Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G382 VC |
-| Friday Jun. 28<sup>th</sup>     | Recurrent Neural Networks               | Banafshe     |1405B |
+| Friday Apr. 26<sup>th</sup>     | Stochastic Processes                    | Deepthi      |G732  |
+| Friday May. 3<sup>rd</sup>      | Decision Trees/Forests                  | Lucas        |G643  |
+| Friday May. 17<sup>th</sup>     | Reinforcement Learning                  | Anthony      |G643  |
+| Friday May. 31<sup>st</sup>     | Generative Models                       | Anup         |G643  |
+| Friday Jun. 7<sup>th</sup>      | Interpretable Models                    | Luis         |G732  |
+| Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G732  |
+| Friday Jun. 28<sup>th</sup>     | Recurrent Neural Networks               | Banafshe     |G732  |
 | Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | G643 |
 | Friday Jul. 26<sup>th</sup>     | Bayesian Inference                      | David        | G643 |
 | Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | G643 |
