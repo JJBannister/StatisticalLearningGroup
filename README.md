@@ -71,8 +71,8 @@ Fully recurrent network, LSTM, training (supervised, reinforcement)
 #### 9 Ensemble Methods
 Blending, bagging, boosting, stacking.
 
-#### 10 Bayesian Inference 
-Frequentist vs. Bayesian, bayes theorem, maximum likelihood estimates, maximum a posterori estimates, Markov Chain Monte Carlo (MCMC), Variational Inference (VI)
+#### 10 Geometric Deep Learning 
+Convolutions on graphs and manifolds, graph/manifold CNN's, laplacian eigenbasis decomposition of graphs and manifolds.
 
 #### 11 Probabilistic Graphical Models
 Bayesian networks, markov networks, conditional independence, joint probability factorization, hidden markov models
