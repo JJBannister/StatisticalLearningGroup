@@ -13,7 +13,7 @@ The group is sponsored by the GSA Quality Money Fund, The UofC Biomedical Engine
 - Matthias Wilms
 - Banafshe Felfeliyan
 - Van Anh Le
-- David Katz
+- Sebastian Crites
 - Nagesh Subbanna
 - Bryce Besler
 - Danielle Whittier
@@ -36,7 +36,7 @@ We are planning to meet **every second week (roughly) on Friday from 12-1pm begi
 | Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G732  |
 | Friday Jun. 21<sup>st</sup>     | Recurrent Neural Networks               | Banafshe     |G384  |
 | Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | G643 |
-| Friday Jul. 26<sup>th</sup>     | Bayesian Inference                      | David        | G643 |
+| Friday Jul. 26<sup>th</sup>     | Geometric Deep Learning                 | Sebastian    | G643 |
 | Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | G643 |
 | Friday Aug. 23<sup>rd</sup>     | Causal Inference                        | Bryce        | G750 |
 | Friday Sep. 6<sup>th</sup>      | Multi-level and Mixed Effects Models    | Danielle     | G743 |
