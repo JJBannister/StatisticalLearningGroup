@@ -33,13 +33,13 @@ We are planning to meet **every second week (roughly) on Friday from 12-1pm begi
 | Friday May. 17<sup>th</sup>     | Reinforcement Learning                  | Anthony      |G643  |
 | Friday May. 31<sup>st</sup>     | Generative Models                       | Anup         |G643  |
 | Friday Jun. 7<sup>th</sup>      | Interpretable Models                    | Luis         |G732  |
-| Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G732  |
+| Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G384  |
 | Friday Jun. 21<sup>st</sup>     | Recurrent Neural Networks               | Banafshe     |G384  |
-| Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | G643 |
-| Friday Jul. 26<sup>th</sup>     | Geometric Deep Learning                 | Sebastian    | G643 |
-| Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | G643 |
-| Friday Aug. 23<sup>rd</sup>     | Causal Inference                        | Bryce        | G750 |
-| Friday Sep. 6<sup>th</sup>      | Multi-level and Mixed Effects Models    | Danielle     | G743 |
+| Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | G382 VC |
+| Friday Jul. 26<sup>th</sup>     | Geometric Deep Learning                 | Sebastian    | G384 |
+| Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | G384 |
+| Friday Aug. 23<sup>rd</sup>     | Causal Inference                        | Bryce        | G384 |
+| Friday Sep. 6<sup>th</sup>      | Multi-level and Mixed Effects Models    | Danielle     | G382 VC |
 
 ### Curriculum
 The content was selected according to the interests and knowledge of the presenting members. Related topics are (roughly) grouped together.
