@@ -34,7 +34,7 @@ We are planning to meet **every second week (roughly) on Friday from 12-1pm begi
 | Friday May. 31<sup>st</sup>     | Generative Models                       | Anup         |G643  |
 | Friday Jun. 7<sup>th</sup>      | Interpretable Models                    | Luis         |G732  |
 | Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G384  |
-| Friday Jun. 21<sup>st</sup>     | Recurrent Neural Networks               | Banafshe     |TBA  |
+| Friday Jun. 21<sup>st</sup>     | Recurrent Neural Networks               | Banafshe     |G382  |
 | Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | G382 VC |
 | Friday Jul. 26<sup>th</sup>     | Geometric Deep Learning                 | Sebastian    | G384 |
 | Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | G384 |
