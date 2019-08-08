@@ -16,7 +16,7 @@ The group is sponsored by the GSA Quality Money Fund, The UofC Biomedical Engine
 - Sebastian Crites
 - Nagesh Subbanna
 - Bryce Besler
-- Danielle Whittier
+
 
 
 
@@ -39,7 +39,7 @@ We are planning to meet **every second week (roughly) on Friday from 12-1pm begi
 | Friday Jul. 26<sup>th</sup>     | Geometric Deep Learning                 | Sebastian    | G384 |
 | Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | G384 |
 | Friday Aug. 23<sup>rd</sup>     | Causal Inference                        | Bryce        | G384 |
-| Friday Sep. 6<sup>th</sup>      | Multi-level and Mixed Effects Models    | Danielle     | G382 VC |
+
 
 ### Curriculum
 The content was selected according to the interests and knowledge of the presenting members. Related topics are (roughly) grouped together.
@@ -80,5 +80,3 @@ Bayesian networks, markov networks, conditional independence, joint probability 
 #### 12 Causal Inference
 Association, causation, intervention, counterfactuals, instrumentals, Structural Causal Models (SCM)
 
-#### 13 Multi-level and Mixed Effects Models 
-Fixed vs random effects, heirarchical regression
