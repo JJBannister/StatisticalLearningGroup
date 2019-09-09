@@ -1,7 +1,7 @@
 # UofC Statistical Learning Study Group
-Public repository for the UofC Statistical Learning study group. The group will meet over the summer of 2019 for 13 presentations given by university students and staff on different topics. The objective of the group is to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
+Public repository for the UofC Statistical Learning study group. The group met over the summer of 2019 for 12 presentations given by university students and staff on different topics. The objective of the group was to develop foundational knowledge and explore new developments in the fields of statistics and machine learning. 
 
-The group is sponsored by the GSA Quality Money Fund, The UofC Biomedical Engineering Graduate Student Commitee (BMEG), and the McCaig Trainee Council (MTC)
+The group was sponsored by the GSA Quality Money Fund and The UofC Biomedical Engineering Graduate Student Commitee (BMEG).
 
 #### Presenting Members:
 - Jordan Bannister
@@ -16,8 +16,6 @@ The group is sponsored by the GSA Quality Money Fund, The UofC Biomedical Engine
 - Sebastian Crites
 - Nagesh Subbanna
 - Bryce Besler
-
-
 
 
 ### Meetings
@@ -35,7 +33,7 @@ We are planning to meet **every second week (roughly) on Friday from 12-1pm begi
 | Friday Jun. 7<sup>th</sup>      | Interpretable Models                    | Luis         |G732  |
 | Friday Jun. 14<sup>th</sup>     | Computational Anatomy                   | Matthias     |G384  |
 | Friday Jun. 21<sup>st</sup>     | Recurrent Neural Networks               | Banafshe     |G382  |
-| Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | G382 VC |
+| Friday Jul. 12<sup>th</sup>     | Ensemble Methods                        | Ahn          | G382 |
 | Friday Jul. 26<sup>th</sup>     | Geometric Deep Learning                 | Sebastian    | G384 |
 | Friday Aug. 9<sup>th</sup>      | Probabilistic Graphical Models          | Nagesh       | G384 |
 | Friday Aug. 23<sup>rd</sup>     | Causal Inference                        | Bryce        | G384 |
